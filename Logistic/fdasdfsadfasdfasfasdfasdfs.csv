@@ -1,0 +1,11 @@
+url,url_length,hostname_length,path_length,fd_length,tld_length,count-,count-@,count-?,count%,count.,count=,count-http,count-https,count-www,count-digit,count-letter,count_dir,use_of_ip,short_url,result
+https://www.cosmosfarm.com/products/kboard,42,18,16,8,3,1,1,0,0,2,0,1,1,1,0,35,2,1,1,0
+https://wordpress.org,21,13,0,0,3,1,1,0,0,1,0,1,1,0,0,17,0,1,1,0
+http://xpressengine.github.io/XEIcon,36,22,7,6,9,1,1,0,0,2,0,1,0,0,0,30,1,1,1,0
+https://github.com/xpressengine/XEIcon,38,10,20,12,3,1,1,0,0,1,0,1,1,0,0,32,2,1,1,0
+https://www.xpressengine.com/forum,34,20,6,5,3,1,1,0,0,2,0,1,1,1,0,28,1,1,1,0
+https://www.xpressengine.com/qna,32,20,4,3,3,1,1,0,0,2,0,1,1,1,0,26,1,1,1,0
+https://www.xpressengine.com/download,37,20,9,8,3,1,1,0,0,2,0,1,1,1,0,31,1,1,1,0
+https://github.com/xpressengine/xe-core,39,10,21,12,3,-1,1,0,0,1,0,1,1,0,0,32,2,1,1,0
+https://www.xehub.io,20,12,0,0,2,1,1,0,0,2,0,1,1,1,0,15,0,1,1,0
+https://www.xpressengine.com,28,20,0,0,3,1,1,0,0,2,0,1,1,1,0,23,0,1,1,0
