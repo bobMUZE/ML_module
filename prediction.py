@@ -350,7 +350,7 @@ class ML:
         making_log_data["detection"] = True
         making_log_data["URL"] = f"{self.url_file}"
         making_log_data["status_code"] = requests.get(self.url_file).status_code # 2020- 12- 10 추가 수진이한테 추가적으로 받아와야할것
-        making_log_data["response_time"] = requests.get(self.url_file).elapsed.total_seconds() # 2020- 12- 10 추가 수진이한테 추가적으로 받아와야할것
+        making_log_data["request_time"] = requests.get(self.url_file).elapsed.total_seconds() # 2020- 12- 10 추가 수진이한테 추가적으로 받아와야할것
         making_log_data["xpath"] = f"{self.xpath}"
 
         making_log_data["module"] = "ML_PhishingDetected"
